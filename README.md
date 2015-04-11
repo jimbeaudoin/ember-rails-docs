@@ -1,5 +1,5 @@
 # ember-rails-tdd-docs
-Documentations for my ember-rails-tdd project.
+Documentations for my [ember-rails-tdd](https://github.com/jimbeaudoin/ember-rails-tdd) project.
 
 This project is based on this [work](http://reefpoints.dockyard.com/2014/05/07/building-an-ember-app-with-rails-part-1.html).
 
