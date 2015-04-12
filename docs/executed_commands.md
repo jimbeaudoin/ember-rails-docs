@@ -16,3 +16,14 @@ Remove Backend Assets Folder
 ```sh
 rm -rf backend/app/assets
 ```
+
+Unclassified Commands
+```sh
+npm install --save-dev ember-cli-pretender
+ember install ember-cli-pretender
+ember g adapter application
+rails g model student name:string
+rake db:migrate
+rake db:seed
+rails g serializer student
+```
