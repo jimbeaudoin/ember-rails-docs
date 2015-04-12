@@ -11,3 +11,8 @@ Generate a new ember-cli project.
 ```sh
 ember new frontend --skip-git
 ```
+
+Remove Backend Assets Folder
+```sh
+rm -rf backend/app/assets
+```
